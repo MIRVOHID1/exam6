@@ -1,0 +1,15 @@
+.wrapinput{
+    margin-top: 85px;
+    border-bottom: 1px #6D6E76 solid;
+    padding-bottom: 32px;
+    &__input{
+        display: flex;
+        width: 1280px;
+        padding: 24px;
+        align-items: center;
+        gap: 10px;
+        border-radius: 2px;
+        border: 1px solid rgba(109, 110, 118, 0.50);
+        margin: 165px 0 54px 0;
+    }
+}
